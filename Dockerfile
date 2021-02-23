@@ -1,4 +1,4 @@
-# Use the node v10 image
+# Use the node v15 image
 FROM node:15
 # Set working directory
 WORKDIR /app
